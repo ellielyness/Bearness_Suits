@@ -12,3 +12,6 @@ Added Dependency for Female Suits, put stuff in new folders in the hopes that th
 
 ## v1.1.6
 Removed Female Suits dependency until I can figure out how it works
+
+## v1.1.6
+Stability at last
