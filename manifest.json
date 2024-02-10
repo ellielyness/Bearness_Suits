@@ -1,10 +1,9 @@
 {
     "name": "BearnessSuits",
-    "version_number": "1.1.5",
+    "version_number": "1.1.6",
     "website_url": "https://github.com/ellielyness/Bearness_Suits",
     "description": "Suits for Claire and Bear",
     "dependencies": [
-        "x753-More_Suits-1.4.1",
-        "Vegasx-Female_Scavenger"
+        "x753-More_Suits-1.4.1"
     ]
 }

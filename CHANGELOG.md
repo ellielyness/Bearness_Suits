@@ -9,3 +9,6 @@
 
 ## v1.1.5
 Added Dependency for Female Suits, put stuff in new folders in the hopes that they'll work.
+
+## v1.1.6
+Removed Female Suits dependency until I can figure out how it works
